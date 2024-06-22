@@ -6,7 +6,7 @@
   background-color: #282c34;
   padding: 20px;
   color: white;
-/*   height: 120vh; */
+  min-height: 120vh;
 }
 
 form {
